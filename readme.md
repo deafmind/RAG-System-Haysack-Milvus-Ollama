@@ -14,7 +14,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system where an A
 Follow these steps to set up the project:
 1. Install the **uv** package manager:
     ```bash
-    pip install uv # if uv package manager not installed on your system.
+    pip install uv # If uv package manager not installed on your system.
     git clone https://github.com/deafmind/RAG-System-Haysack-Milvus-Ollama.git
     ```
 2. Install dependencies using **uv**:
